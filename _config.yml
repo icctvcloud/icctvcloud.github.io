@@ -4,7 +4,7 @@ email: myemail@example.com # 博客联系邮箱
 description: >-         # 博客描述
   This is my awesome blog.
 baseurl: ""             # 基础 URL，例如 /blog，如果站点在子目录中
-url: "http://jimmy.github.io" # 你的博客 URL
+url: "https://jimmy.github.io" # 你的博客 URL
 
 # Build settings
 markdown: kramdown      # 使用的 Markdown 引擎
